@@ -40,11 +40,11 @@ GRUPO:
 ![temperatura](temper.jpg)
 
 ### Interface 6 : Umidade (Jonathan)
-#### Nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes
+#### Nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes, influenciando no sabor final desses produtos para o consumidor, embora esteja já explícito o percentual ideal na tela. Após esta tela, o usuário será direcionado para a interface referente ao AMBIENTE com suas informações ideiais.
 ![umidade](umidade.jpg)
 
 ### Interface 7 : Ambiente (Jonathan)
-#### Após passar pela Interface correspondente ao MENU de DADOS, nesta tela de direcionamento referente ao AMBIENTE é importante que O bom uso do frio por meio de uma Cadeia de Refrigeração bem ativado & Organizada uma grande importância na manutenção da qualidade das frutas e /ou hortaliças. Ao respirar como quaisquer plantas das plantas as frutas/horizonte continuando e transpirando como vivo. Aqui o Usuário/cliente terá a oportunidade de conferir tipos de locais mais adequados para o controle total dos produtos de seu interesse
+#### Após passar pela Interface correspondente ao MENU de DADOS, nesta tela de direcionamento referente ao AMBIENTE é importante que O bom uso do frio por meio de uma Cadeia de Refrigeração bem ativado & Organizada uma grande importância na manutenção da qualidade das frutas e /ou hortaliças. Ao respirar como quaisquer planta, as frutas/horizonte continuando e transpirando como vivo. Aqui o Usuário/cliente terá a oportunidade de conferir tipos de locais mais adequados para o controle total dos produtos de seu interesse, e verificar as condições ideais do seu produto desejável de consumo. Após esta tela,  o usuário será direcionado para a apróxima interface referente ao TRANSPORTE.
 ![ambiente](ambient.jpg)
 
 ### Interface 8 : Transporte (Poliana)
